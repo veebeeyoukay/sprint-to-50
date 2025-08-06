@@ -1,3 +1,4 @@
+
 # CloseGRC Product Knowledge Base
 ## B2B SaaS for Technology Companies Selling to Regulated Enterprises
 
